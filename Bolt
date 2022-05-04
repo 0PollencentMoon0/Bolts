@@ -1,6 +1,6 @@
 Programmer: Charlotte Osburn
-Date: 5/3/2022
-Program: Java Script - Hello Square
+Date: 5/4/2022
+Program: Java Script - Figure 8
 
 async function startProgram() {
 
